@@ -3,7 +3,7 @@
 Bem-vindo ao projeto do jogo Detona Ralph! Um divertido jogo estilo "Whac-A-Mole" onde seu objetivo é acertar o Ralph para marcar pontos antes que o tempo acabe.
 
 ![Gameplay do Jogo](https://raw.githubusercontent.com/lucascarrari/detonaRalph/main/gameplay_preview.gif)
-*(Sugestão: Crie um GIF chamado `gameplay_preview.gif`, adicione à raiz do seu projeto ou a uma pasta `assets`, e atualize o link acima se necessário. Você pode usar ferramentas online como ezgif.com para criar GIFs a partir de vídeos curtos da tela.)*
+
 
 ## 🎮 Como Jogar
 
